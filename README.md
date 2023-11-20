@@ -1,2 +1,2 @@
 # NoSQL-Querying
-NoSQL querying done using python with key-value pair database.
+NoSQL querying done using python on top of key-value pair database.
